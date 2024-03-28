@@ -4,10 +4,13 @@ The Strong Password Generator is a simple and lightweight application that helps
 
 ## Check Here Strong Password Generator: https://strongpasswordgenerator.streamlit.app/
 
+![Uploading image.png…]()
+
+
 # Features
 
 Generate strong and secure passwords with customizable length.
-Specify the complexity of passwords, including options for uppercase letters, lowercase letters, numbers, and special characters.Lightweight and easy to use, with no external dependencies.
+Specify the complexity of passwords, including options for uppercase letters, lowercase letters, numbers, and special characters. Lightweight and easy to use, with no external dependencies.
 
 # How to Use
 
