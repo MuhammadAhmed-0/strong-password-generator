@@ -4,7 +4,8 @@ The Strong Password Generator is a simple and lightweight application that helps
 
 ## Check Here Strong Password Generator: https://strongpasswordgenerator.streamlit.app/
 
-![Uploading image.png…]()
+![image](https://github.com/MuhammadAhmed-0/strong-password-generator/assets/92883593/e94cbbd2-8fd3-4f46-b320-8e78d5a62eb8)
+
 
 
 # Features
